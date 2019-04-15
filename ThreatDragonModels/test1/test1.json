@@ -4,7 +4,11 @@
     "owner": "me"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "kk"
+      }
+    ],
     "diagrams": [
       {
         "title": "he",
