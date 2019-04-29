@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "test2"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
